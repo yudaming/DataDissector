@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Version="2" ApproxVals="16" Server="10.200.200.216" Database="Gov2_WebDissectorDataCenter_GB2" IntegratedSecurity="True">
+  <Options>
+    <Option uri="http://sqldoc/project/selections/databases/user/[Gov2_WebDissectorDataCenter_GB2]/include/" value="True" />
+    <Option uri="http://sqldoc/project/selections/databases/user/[Gov2_WebDissectorDataCenter_GB2]/security/include/" value="False" />
+    <Option uri="http://sqldoc/project/description/" value="" />
+    <Option uri="http://sqldoc/project/outputstyle/selected/" value="FramedHTML" />
+    <Option uri="http://sqldoc/project/name/" value="10.200.200.216" />
+    <Option uri="http://sqldoc/project/cover/include/" value="True" />
+    <Option uri="http://sqldoc/project/outputpath/" value="D:\Gov2_WebDissectorDataCenter_GB2" />
+    <Option uri="http://sqldoc/project/outputname/" value="10.200.200.216" />
+    <Option uri="http://sqldoc/project/outputname/addtimestamp/" value="True" />
+    <Option uri="http://sqldoc/project/footer/date/format/" value="dd MMMM yyyy HH:mm" />
+    <Option uri="http://sqldoc/project/header/breadcrumbs/include/" value="True" />
+    <Option uri="http://sqldoc/project/header/text/" value="" />
+    <Option uri="http://sqldoc/project/footer/copyright/text/" value="Copyright 2014 - All Rights Reserved" />
+    <Option uri="http://sqldoc/project/author/" value="T440P" />
+    <Option uri="http://sqldoc/project/outputstyle/word/pagesize" value="Letter" />
+    <Option uri="http://sqldoc/project/logo/" value="" />
+  </Options>
+</Project>
